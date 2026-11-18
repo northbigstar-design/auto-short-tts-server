@@ -1,0 +1,4 @@
+
+fastapi
+uvicorn[stadard]
+edge-tts
